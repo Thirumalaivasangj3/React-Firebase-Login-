@@ -26,5 +26,5 @@ A web application that provides user authentication using **React.js** for the f
 git clone https://github.com/Thirumalaivasangj3/React-Firebase-Login-.git
 
 ##Screenshot 
-![Alt text](file:///var/folders/30/w5h7v7ls4d72hwms2zpj1x6r0000gn/T/TemporaryItems/NSIRD_screencaptureui_CGiqWL/Screenshot%202024-12-07%20at%203.28.40%E2%80%AFPM.png)
+![GitHub Logo](file:///var/folders/30/w5h7v7ls4d72hwms2zpj1x6r0000gn/T/TemporaryItems/NSIRD_screencaptureui_CGiqWL/Screenshot%202024-12-07%20at%203.28.40%E2%80%AFPM.png)
 
