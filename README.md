@@ -15,9 +15,6 @@ A web application that provides user authentication using **React.js** for the f
 - Clean and responsive UI built with React.js.
 
 
-##Screenshot 
-![GitHub Logo](file:///var/folders/30/w5h7v7ls4d72hwms2zpj1x6r0000gn/T/TemporaryItems/NSIRD_screencaptureui_CGiqWL/Screenshot%202024-12-07%20at%203.28.40%E2%80%AFPM.png)
-
 ## Technologies Used
 
 - **React.js**: Frontend framework for building the user interface.
