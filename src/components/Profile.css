@@ -1,0 +1,49 @@
+.profile-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logout-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hero-section {
+    background: url('thu.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .motivation-section, .about-section, .contact-section, .new-section {
+    margin: 50px 0;
+  }
+  
+  .quote-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .quote {
+    font-size: 24px;
+    font-style: italic;
+  }
+  
+  .author {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #555;
+  }
+  
